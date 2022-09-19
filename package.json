@@ -4,7 +4,7 @@
   "main": "src/main.ts",
   "dependencies": {
     "@grammyjs/menu": "^1.1.2",
-    "botway.js": "^0.0.5",
+    "botway.js": "^0.0.6",
     "grammy": "^1.11.0"
   },
   "devDependencies": {
